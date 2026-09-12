@@ -1,0 +1,21 @@
+{
+ "Church": 1,
+ "Component_WindowA": 1,
+ "Component_WindowB": 1,
+ "rig_shorts_turn_over": 1,
+ "cam_shorts_reel": 1,
+ "cam1": 1,
+ "Showcase_Windows": 1,
+ "cam_showcase": 1,
+ "Showcase_Roof": 1,
+ "Showcase_Church": 1,
+ "cam_target": 1,
+ "cam_lookdev_qhd": 1,
+ "Ground_Plane": 1,
+ "lookdev_env": 1,
+ "lookdev_sun": 1,
+ "ipr_camera": 1,
+ "ipr_camera1": 1,
+ "rig_cam_shorts2": 1,
+ "cam_shorts2": 1
+}
